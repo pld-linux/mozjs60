@@ -6,7 +6,7 @@ Summary:	SpiderMonkey 60 - JavaScript implementation
 Summary(pl.UTF-8):	SpiderMonkey 60 - implementacja języka JavaScript
 Name:		mozjs60
 Version:	60.9.0
-Release:	3
+Release:	4
 License:	MPL v2.0
 Group:		Libraries
 #Source0:	http://ftp.gnome.org/pub/gnome/teams/releng/tarballs-needing-help/mozjs/mozjs-%{version}.tar.bz2
